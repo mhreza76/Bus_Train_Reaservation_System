@@ -1,8 +1,6 @@
 # Bus_Train_Reaservation_System
 
-This system is basically concerned with the reservation is done.
-In this we showed how the reservation is done.
-What are the rules, regulation and procedure for reservation
+This system is for reservation Bus or Train ticket.
 
 ## Sample Output
 
