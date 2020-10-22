@@ -1,4 +1,4 @@
-# BUS/TRAIN Reservation System
+# Bus_Train_Reaservation_System
 
 This system is basically concerned with the reservation is done.
 In this we showed how the reservation is done.
